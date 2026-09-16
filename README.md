@@ -7,7 +7,7 @@ Static marketing site for Zumee, a vehicle advertising platform for Metro Vancou
 - `favicon.svg`, `apple-touch-icon.png` – brand icons.
 - `robots.txt` – currently disallows indexing while the site is a demo; remove once forms are live.
 - `_headers` – security headers for Cloudflare Pages.
-- `brand/` – logo sources (SVG) and PNG exports; `generate-logos.py` regenerates every logo variant (needs `fonttools` and `Sora-VF.ttf`).
+- `brand/` – logo sources (SVG) and PNG exports; `generate-logo.py` regenerates every logo variant (needs `fonttools`; fonts included) (needs `fonttools` and `Sora-VF.ttf`).
 
 ## Deploy
 
