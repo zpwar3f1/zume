@@ -1,0 +1,15 @@
+# Zumee 后台管理：NocoDB（装在你自己电脑上，数据在 Supabase 云端）
+# 用法：在这个目录运行  docker compose up -d   然后打开 http://localhost:8080
+services:
+  nocodb:
+    image: nocodb/nocodb:latest
+    container_name: zumee-nocodb
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      # NocoDB 自己的元数据（视图、筛选、用户）存在本地卷里；业务数据在 Supabase
+      NC_DISABLE_TELE: "true"
+      NC_PUBLIC_URL: "http://localhost:8080"
+    volumes:
+      - ./nc_data:/usr/app/data

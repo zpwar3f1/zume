@@ -4,6 +4,7 @@
 |---|---|
 | `Zumee-Company-Intro-ZH/EN` | Company introduction for prospective advertisers and drivers (who we are, how it works, what businesses and drivers get, what we do not promise, process and fees, concept renderings, compliance, contact). |
 | `Zumee-Advertising-Services-Agreement-EN/ZH` | Formal advertising services agreement between 1376107 B.C. Ltd. dba Zumee and an advertiser: 19 clauses, Schedule A campaign order form, Schedule B content and verification standards. English governs; the Chinese file is a reference translation. |
+| `Zumee-Driver-Participation-Agreement-EN/ZH` | Agreement between Zumee and a vehicle owner: eligibility, campaign offers, independent contractor status, panels and care, verification, payment, insurance, damage, privacy, non-circumvention, termination; Schedule A driver campaign order, Schedule B panel care. Accepted electronically (click-wrap) or signed. |
 | `Zumee-Invoice-Template` | Client invoice: DOCX/PDF sample layout and an XLSX with formulas (line totals, GST 5%, total due). Company 1376107 B.C. Ltd. dba Zumee, GST No. 707470902 RT0001. |
 | `Zumee-Draft-Terms-ZH/EN` | Draft partnership terms extracted from the website (10 clauses), with an acknowledgement / signature page for drivers and businesses to sign. |
 
